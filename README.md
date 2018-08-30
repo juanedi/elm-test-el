@@ -1,3 +1,6 @@
+# :warning: MOVED TO [https://github.com/juanedi/elm-test-runner](elm-test-runner) :warning:
+# This repository is deprecated and might be gone sometime soon
+
 # elm-test-el
 
 This package provides some convenience functions for running `elm-test` on your Elm project.
