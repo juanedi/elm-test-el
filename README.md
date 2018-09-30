@@ -1,1 +1,1 @@
-# :warning: MOVED TO [https://github.com/juanedi/elm-test-runner](elm-test-runner) :warning:
+# :warning: MOVED TO [elm-test-runner](https://github.com/juanedi/elm-test-runner) :warning:
